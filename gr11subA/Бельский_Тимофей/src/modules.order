@@ -1,0 +1,3 @@
+hello_module.o
+proc_module.o
+chardev_module.o

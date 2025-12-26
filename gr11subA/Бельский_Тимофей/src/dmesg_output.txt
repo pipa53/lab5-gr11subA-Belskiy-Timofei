@@ -1,0 +1,20 @@
+[  487.813796] Custom_greeting_from_my_module
+[  501.135633] Module unloaded with message: Custom_greeting_from_my_module
+[  765.654947] Module loaded: /proc/student_info created
+[  800.759990] Module unloaded: /proc/student_info removed
+[ 1232.119586] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
+[ 1261.782298] Module loaded: /proc/student_info created
+[ 1285.592447] Module unloaded: /proc/student_info removed
+[ 1289.721098] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
+[ 1466.238595] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
+[ 1675.270708] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
+[ 1713.003956] Major: 510, Minor: 0
+[ 1713.003970] Character device /dev/mychardev created
+[ 1845.631054] Device opened
+[ 1845.631089] Device closed
+[ 1850.235975] Device opened
+[ 1850.235999] Device closed
+[ 1863.963625] Character device /dev/mychardev removed
+[ 1921.631663] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
+[ 2019.072534] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
+[ 2039.845203] rtw89_8852be 0000:03:00.0: AMD-Vi: Event logged [IO_PAGE_FAULT domain=0x0013 address=0x0 flags=0x0000]
